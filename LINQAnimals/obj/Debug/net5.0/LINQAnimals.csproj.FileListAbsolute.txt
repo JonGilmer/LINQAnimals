@@ -1,0 +1,14 @@
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/LINQAnimals.deps.json
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/LINQAnimals.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/LINQAnimals.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/LINQAnimals.dll
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/ref/LINQAnimals.dll
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/bin/Debug/net5.0/LINQAnimals.pdb
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.dll
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/ref/LINQAnimals.dll
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.pdb
+/Users/JonathanGilmer/Desktop/Repos/LINQAnimals/LINQAnimals/obj/Debug/net5.0/LINQAnimals.genruntimeconfig.cache

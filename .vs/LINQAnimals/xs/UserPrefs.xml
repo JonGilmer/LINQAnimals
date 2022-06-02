@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{1ECBD8CF-ADE8-48B2-8E2A-B617E44F8B1F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LINQAnimals/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQAnimals/Owner.cs">
     <Files>
-      <File FileName="LINQAnimals/Program.cs" Line="1" Column="14" />
+      <File FileName="LINQAnimals/Program.cs" Line="5" Column="18" />
+      <File FileName="LINQAnimals/Animal.cs" Line="21" Column="29" />
+      <File FileName="LINQAnimals/Owner.cs" Line="10" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LINQAnimals" expanded="True">
             <Node name="LINQAnimals" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Owner.cs" selected="True" />
             </Node>
           </Node>
         </State>
