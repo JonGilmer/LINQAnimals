@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1ECBD8CF-ADE8-48B2-8E2A-B617E44F8B1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQAnimals/Program.cs">
+    <Files>
+      <File FileName="LINQAnimals/Program.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQAnimals" expanded="True">
+            <Node name="LINQAnimals" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LINQAnimals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
